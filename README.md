@@ -1,2 +1,5 @@
 # lark_reply_patcher
+
 通过猴子补丁的方式，修复了飞书Lark适配器下，机器人无法看到引用消息的问题
+
+插件可能会随着astrbot本体版本更新，涉及到lark_adapter和lark_event重大更新时失效。
